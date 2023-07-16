@@ -1,0 +1,22 @@
+body {
+    font-family: 'IBM Plex Mono', monospace;
+    font-family: 'Manrope', sans-serif;
+    background-color: black;
+    width: 100%;
+}
+.container {
+    margin: 0 auto;
+    width: 1400px;
+    background-color:  black;
+    font-family: IBM Plex Mono;
+    height: 0 auto;
+}
+
+.the_latest_projects_1400px {
+        margin: 0 auto;
+    width: 1400px;
+    background-color:  black;
+    font-family: IBM Plex Mono;
+    height: 0 auto;
+}
+

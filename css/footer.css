@@ -1,0 +1,32 @@
+.footer {
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+    width: 1400px;
+    height: 223px;
+    flex-shrink: 0;
+    background: #FFF;
+}
+.footer_h4 {
+    padding-left: 125px;
+    padding-top: 76px;
+    color: #000;
+    font-family: Manrope;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.66px;
+}
+
+.footer_p {
+    padding-left: 125px;
+    padding-top: 66px;
+    color: #000;
+    font-family: Manrope;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    letter-spacing: -0.6px;
+    opacity: 0.5;
+}
